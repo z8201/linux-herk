@@ -1,19 +1,5 @@
 # linux-herk
-Su
 
-Root
-
-Zipper search samba kan ook zypper install samba
-
-Maak screenshot van uitslag
-
-
-
-Systemctl start smb.service
-
-Systemctl status smb.service
-
-Screenshot
 
 
 
@@ -90,6 +76,23 @@ In windows
 Ipadress/nederland.local
 
 
+samba
+
+Su
+
+Root
+
+Zipper search samba kan ook zypper install samba
+
+Maak screenshot van uitslag
+
+
+
+Systemctl start smb.service
+
+Systemctl status smb.service
+
+Screenshot
 
 Samba
 
